@@ -37,7 +37,7 @@ answer:0
 {
 question:"Which gas is filled in CO₂ extinguisher?",
 options:["Oxygen","Nitrogen","Carbon Dioxide","Hydrogen"],
-answer:2
+answer:3
 },
 {
 question:"Minimum height for Work at Height?",
