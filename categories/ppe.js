@@ -1,102 +1,7 @@
 const ppeQuestions = [
 {
-  question: "What does PPE stand for?",
-  options: [
-    "Personal Protective Equipment",
-    "Public Protective Equipment",
-    "Private Protective Equipment",
-    "Personal Prevention Equipment"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE protects your head?",
-  options: [
-    "Helmet",
-    "Gloves",
-    "Safety Shoes",
-    "Ear Plug"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE protects your eyes?",
-  options: [
-    "Safety Goggles",
-    "Helmet",
-    "Mask",
-    "Apron"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE is used for hearing protection?",
-  options: [
-    "Ear Plug",
-    "Helmet",
-    "Safety Belt",
-    "Face Shield"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE protects your feet?",
-  options: [
-    "Safety Shoes",
-    "Gloves",
-    "Helmet",
-    "Mask"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE protects your hands?",
-  options: [
-    "Safety Gloves",
-    "Safety Shoes",
-    "Helmet",
-    "Goggles"
-  ],
-  answer: 0
-},
-{
-  question: "Which PPE is used while working at height?",
-  options: [
-    "Full Body Harness",
-    "Apron",
-    "Mask",
-    "Ear Plug"
-  ],
-  answer: 0
-},
-{
-  question: "Who is responsible for wearing PPE?",
-  options: [
-    "Every Employee",
-    "Supervisor Only",
-    "Safety Officer Only",
-    "Manager Only"
-  ],
-  answer: 0
-},
-{
-  question: "Damaged PPE should be...",
-  options: [
-    "Replaced Immediately",
-    "Used Carefully",
-    "Ignored",
-    "Shared with Others"
-  ],
-  answer: 0
-},
-{
-  question: "Why is PPE important?",
-  options: [
-    "To reduce
-const ppeQuestions = [
-{
 question:"What does PPE stand for?",
-options:["Personal Protective Equipment","Public Protective Equipment","Private Protection Equipment","Personal Prevention Equipment"],
+options:["Personal Protective Equipment","Public Protective Equipment","Private Protective Equipment","Personal Prevention Equipment"],
 answer:0
 },
 {
@@ -111,7 +16,7 @@ answer:0
 },
 {
 question:"Which PPE protects the eyes?",
-options:["Safety Goggles","Helmet","Apron","Mask"],
+options:["Safety Goggles","Helmet","Mask","Apron"],
 answer:0
 },
 {
@@ -145,257 +50,203 @@ options:["To reduce injury risk","To increase production","To save electricity",
 answer:0
 },
 {
-question:"Which PPE protects against dust inhalation?",
+question:"Which PPE protects against dust?",
 options:["Dust Mask","Helmet","Safety Shoes","Ear Plug"],
 answer:0
 },
 {
 question:"Which PPE is used during welding?",
-options:["Welding Shield","Safety Shoes","Helmet","Gloves Only"],
+options:["Welding Shield","Helmet","Safety Shoes","Apron"],
 answer:0
 },
 {
-question:"Face shield mainly protects the...",
+question:"Face shield protects the...",
 options:["Face","Feet","Hands","Legs"],
 answer:0
 },
 {
-question:"Safety helmet should always have...",
+question:"Helmet should always have...",
 options:["Chin Strap","Sticker","Torch","Paint"],
 answer:0
 },
 {
-question:"Before using PPE, you should...",
+question:"Before using PPE you should...",
 options:["Inspect it","Throw it","Share it","Modify it"],
 answer:0
 },
 {
-question:"Respirators are used to protect the...",
+question:"Respirator protects the...",
 options:["Respiratory System","Eyes","Feet","Hands"],
 answer:0
 },
 {
 question:"Safety shoes protect against...",
-options:["Foot Injury","Eye Injury","Hearing Loss","Burns Only"],
+options:["Foot Injury","Eye Injury","Hearing Loss","Burns"],
 answer:0
 },
 {
-question:"Chemical-resistant gloves are used while handling...",
-options:["Chemicals","Paper","Wood","Plastic"],
-answer:0
-},
-{
-question:"Loose PPE can...",
-options:["Create Safety Hazards","Improve Safety","Increase Comfort","Reduce Weight"],
-answer:0
-},
-{
-question:"PPE should be selected based on...",
-options:["Hazard Assessment","Worker Age","Company Name","Weather Only"],
-answer:0
-}
-,
-{
-question:"Which PPE protects against dust inhalation?",
-options:["Dust Mask","Helmet","Safety Shoes","Ear Plug"],
-answer:0
-},
-{
-question:"Which PPE is used during welding?",
-options:["Welding Shield","Safety Shoes","Helmet","Gloves Only"],
-answer:0
-},
-{
-question:"Face shield mainly protects the...",
-options:["Face","Feet","Hands","Legs"],
-answer:0
-},
-{
-question:"Safety helmet should always have...",
-options:["Chin Strap","Sticker","Torch","Paint"],
-answer:0
-},
-{
-question:"Before using PPE, you should...",
-options:["Inspect it","Throw it","Share it","Modify it"],
-answer:0
-},
-{
-question:"Respirators are used to protect the...",
-options:["Respiratory System","Eyes","Feet","Hands"],
-answer:0
-},
-{
-question:"Safety shoes protect against...",
-options:["Foot Injury","Eye Injury","Hearing Loss","Burns Only"],
-answer:0
-},
-{
-question:"Chemical-resistant gloves are used while handling...",
-options:["Chemicals","Paper","Wood","Plastic"],
+question:"Chemical resistant gloves are used for...",
+options:["Chemical Handling","Paper Work","Painting Walls","Cleaning Floor"],
 answer:0
 },
 {
 question:"Loose PPE can...",
-options:["Create Safety Hazards","Improve Safety","Increase Comfort","Reduce Weight"],
+options:["Create Hazards","Increase Safety","Improve Comfort","Reduce Risk"],
 answer:0
 },
 {
-question:"PPE should be selected based on...",
-options:["Hazard Assessment","Worker Age","Company Name","Weather Only"],
-answer:0
-}
-,
+question:"PPE selection is based on...",
+options:["Hazard Assessment","Age","Salary","Weather"]
+,answer:0
+},
 {
-question:"Which PPE protects against dust inhalation?",
-options:["Dust Mask","Helmet","Safety Shoes","Ear Plug"],
+question:"Safety goggles should be cleaned...",
+options:["Regularly","Never","Only yearly","Only after damage"],
 answer:0
 },
 {
-question:"Which PPE is used during welding?",
-options:["Welding Shield","Safety Shoes","Helmet","Gloves Only"],
+question:"High visibility vest is mainly used to...",
+options:["Increase worker visibility","Protect from chemicals","Protect hearing","Protect hands"],
 answer:0
 },
 {
-question:"Face shield mainly protects the...",
-options:["Face","Feet","Hands","Legs"],
+question:"Ear muffs are used in...",
+options:["High noise areas","Confined spaces","Chemical handling","Welding only"],
 answer:0
 },
 {
-question:"Safety helmet should always have...",
-options:["Chin Strap","Sticker","Torch","Paint"],
+question:"Safety helmet protects against...",
+options:["Head injuries","Foot injuries","Hand injuries","Eye injuries"],
 answer:0
 },
 {
-question:"Before using PPE, you should...",
-options:["Inspect it","Throw it","Share it","Modify it"],
+question:"Safety goggles protect against...",
+options:["Flying particles","Noise","Heat only","Electric shock"],
 answer:0
 },
 {
-question:"Respirators are used to protect the...",
-options:["Respiratory System","Eyes","Feet","Hands"],
+question:"Full body harness should be inspected...",
+options:["Before every use","Once a year","Only after a fall","Never"],
 answer:0
 },
 {
-question:"Safety shoes protect against...",
-options:["Foot Injury","Eye Injury","Hearing Loss","Burns Only"],
-answer:0
-},
-{
-question:"Chemical-resistant gloves are used while handling...",
-options:["Chemicals","Paper","Wood","Plastic"],
-answer:0
-},
-{
-question:"Loose PPE can...",
-options:["Create Safety Hazards","Improve Safety","Increase Comfort","Reduce Weight"],
-answer:0
-},
-{
-question:"PPE should be selected based on...",
-options:["Hazard Assessment","Worker Age","Company Name","Weather Only"],
-answer:0
-}
-,
-{
-question:"Safety goggles should be worn when...",
-options:["There is a risk of flying particles","Working in the office","Eating lunch","Walking outdoors"],
-answer:0
-},
-{
-question:"Which PPE is most suitable for handling hot objects?",
-options:["Heat-resistant gloves","Cotton gloves","Ear plugs","Safety glasses"],
-answer:0
-},
-{
-question:"PPE should be...",
-options:["Cleaned and maintained regularly","Used until completely broken","Shared without cleaning","Modified by workers"],
-answer:0
-},
-{
-question:"A damaged safety helmet should be...",
-options:["Replaced immediately","Repaired with tape","Used carefully","Painted and reused"],
-answer:0
-},
-{
-question:"Which PPE protects against chemical splashes?",
-options:["Chemical safety goggles","Safety shoes","Helmet","Ear plugs"],
-answer:0
-},
-{
-question:"High-visibility jackets help workers to...",
-options:["Be seen easily","Work faster","Lift heavy loads","Reduce noise"],
-answer:0
-},
-{
-question:"The first step before using PPE is...",
-options:["Inspect it for damage","Wash it","Paint it","Share it"],
-answer:0
-},
-{
-question:"PPE is considered the ______ line of defense.",
+question:"PPE is the ______ line of defense.",
 options:["Last","First","Second","Third"],
 answer:0
 },
 {
-question:"Respirators must fit properly to...",
-options:["Provide effective protection","Look professional","Increase comfort only","Reduce helmet weight"],
+question:"Workers should replace PPE when it is...",
+options:["Damaged","Dirty","New","Heavy"],
 answer:0
 },
 {
-question:"Who should receive PPE training?",
-options:["All employees","Managers only","Visitors only","Contractors only"],
+question:"Safety gloves help prevent...",
+options:["Hand injuries","Eye injuries","Noise","Slips"],
 answer:0
-}
-,
+},
+{
+question:"Safety shoes should have...",
+options:["Steel Toe","Rubber Handle","Plastic Lens","Cotton Strap"],
+answer:0
+},
+{
+question:"Respirators must fit...",
+options:["Properly","Loosely","Tightly on helmet","Anywhere"],
+answer:0
+},
+{
+question:"Face shield should be used with...",
+options:["Safety Goggles","Sandals","Cap","Earphones"],
+answer:0
+},
 {
 question:"PPE should be stored in a...",
-options:["Clean and dry place","Wet area","Chemical storage tank","Open drain"],
+options:["Clean and Dry Place","Wet Area","Chemical Tank","Open Drain"],
 answer:0
 },
 {
-question:"Safety helmets should meet...",
-options:["Approved safety standards","Any color requirement","Only company logo requirement","No standard"],
+question:"Who provides PPE?",
+options:["Employer","Customer","Visitor","Friend"],
 answer:0
 },
 {
-question:"Which PPE protects against loud noise?",
-options:["Ear Muffs","Safety Shoes","Helmet","Face Shield"],
+question:"Safety helmet expiry should be...",
+options:["Checked","Ignored","Painted","Removed"],
 answer:0
 },
 {
-question:"If PPE becomes defective during work, you should...",
-options:["Stop work and replace it","Continue working","Ignore the damage","Remove all PPE"],
+question:"Using damaged PPE may...",
+options:["Cause Injury","Increase Safety","Improve Comfort","Reduce Risk"],
 answer:0
 },
 {
-question:"Which PPE is commonly used while grinding?",
-options:["Face Shield","Safety Belt","Ear Plug Only","Apron Only"],
+question:"Which PPE is used while grinding?",
+options:["Face Shield","Helmet Only","Apron","Safety Belt"],
 answer:0
 },
 {
-question:"Safety gloves should be selected according to...",
-options:["The type of hazard","The worker's favorite color","The company logo","The weather only"],
+question:"PPE training should be given to...",
+options:["All Employees","Managers Only","Visitors Only","Security Only"],
 answer:0
 },
 {
-question:"Using the wrong PPE can...",
-options:["Increase the risk of injury","Always improve safety","Reduce work time","Increase production only"],
-answer:0
-},
-{
-question:"Who provides PPE at the workplace?",
-options:["Employer","Employee","Customer","Visitor"],
+question:"Safety glasses should meet...",
+options:["Approved Standards","Worker Choice","Company Color","Any Shape"],
 answer:0
 },
 {
 question:"PPE should be worn...",
-options:["Whenever the job requires it","Only during inspections","Only on the first day","Only when reminded"],
+options:["Whenever required","Only during inspection","Only on Monday","Only when asked"],
 answer:0
 },
 {
-question:"The main purpose of PPE is to...",
-options:["Protect workers from hazards","Increase machine speed","Reduce paperwork","Improve attendance"],
+question:"The main purpose of PPE is...",
+options:["To protect workers from hazards","To increase production","To reduce paperwork","To save electricity"],
+answer:0
+},
+{
+question:"Safety helmet color may indicate...",
+options:["Worker designation","Helmet quality","Worker age","Salary"],
+answer:0
+},
+{
+question:"Safety goggles should be replaced if...",
+options:["They are cracked or damaged","They become dusty","They are one month old","The color fades"],
+answer:0
+},
+{
+question:"Which PPE is commonly used while cutting metal?",
+options:["Safety Goggles","Safety Belt","Earphones","Apron Only"],
+answer:0
+},
+{
+question:"Before wearing a full body harness, you should...",
+options:["Inspect all straps and buckles","Wash it with water","Paint it","Fold it tightly"],
+answer:0
+},
+{
+question:"Which PPE helps protect against chemical splashes?",
+options:["Chemical Goggles","Safety Shoes","Helmet","Ear Plugs"],
+answer:0
+},
+{
+question:"Disposable PPE should be...",
+options:["Disposed of after use","Reused every day","Shared with others","Stored permanently"],
+answer:0
+},
+{
+question:"PPE should fit the worker...",
+options:["Properly","Loosely","Very tightly","Any size is acceptable"],
+answer:0
+},
+{
+question:"Using PPE removes all workplace hazards.",
+options:["False","True","Only in factories","Only outdoors"],
+answer:0
+},
+{
+question:"PPE is most effective when...",
+options:["Correctly selected, worn and maintained","Only worn during inspections","Used by supervisors only","Stored in a locker"],
 answer:0
 }
 ];
