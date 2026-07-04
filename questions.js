@@ -50,3 +50,7 @@ options:["Working Load Limit","Weight Load Level","Work Lift Limit","Working Lif
 answer:0
 }
 ];
+
+function shuffle(arr) {
+  return arr.sort(() => Math.random() - 0.5);
+}
