@@ -250,3 +250,7 @@ options:["Correctly selected, worn and maintained","Only worn during inspections
 answer:0
 }
 ];
+
+function shuffle(arr) {
+  return arr.sort(() => Math.random() - 0.5);
+}
