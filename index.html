@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Safety Guru Pro</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+
+<script>
+if(localStorage.getItem("loggedIn")!=="true"){
+    window.location.href="login.html";
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🦺 Safety Guru Pro</h1>
+
+<p id="welcomeUser"></p>
+
+<button id="logoutBtn" onclick="logout()">Logout</button>
+
+<h3>Industrial Safety Quiz</h3>
+
+<p><b>Founder:</b> Rajvendra Kushwaha</p>
+
+<select id="category">
+
+<option value="general">General Safety</option>
+<option value="ppe">PPE</option>
+<option value="fire">Fire Safety</option>
+<option value="electrical">Electrical Safety</option>
+<option value="height">Work at Height</option>
+<option value="scaffold">Scaffolding</option>
+<option value="lifting">Lifting & Rigging</option>
+<option value="ptw">Permit To Work</option>
+<option value="chemical">Chemical Safety</option>
+<option value="confined">Confined Space</option>
+<option value="firstaid">First Aid</option>
+<option value="cement">Cement Plant</option>
+
+</select>
+
+<br><br>
+
+<button id="startBtn">Start Quiz</button>
+
+<div id="quiz" style="display:none">
+
+<h2 id="question"></h2>
+
+<div id="options"></div>
+
+<br>
+
+<button id="nextBtn">Next Question</button>
+
+<p id="score"></p>
+
+</div>
+
+</div>
+
+<script src="questions.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
