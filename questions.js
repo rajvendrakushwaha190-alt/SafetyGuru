@@ -7467,5 +7467,1200 @@ options:[
 ],
 answer:3
 },
+{
+category:"interview",
+question:"A worker starts maintenance before LOTO verification. What should you do?",
+options:[
+"Stop work and verify isolation",
+"Allow work under supervision",
+"Check after completion",
+"Only inform the supervisor"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"Gas testing shows low oxygen before confined space entry. What is the correct action?",
+options:[
+"Allow entry with PPE",
+"Do not permit entry until safe",
+"Send only one worker",
+"Continue with faster work"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"During lifting, the load starts rotating unexpectedly. What should be done?",
+options:[
+"Increase crane speed",
+"Hold the load by hand",
+"Continue slowly",
+"Stop and control the load safely"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker is working at height without a proper anchorage point. What is your action?",
+options:[
+"Allow short-duration work",
+"Use a warning sign",
+"Stop work until safe anchorage is provided",
+"Ask the worker to be careful"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A Hot Work Permit is valid, but combustible material is found nearby. What should you do?",
+options:[
+"Start work quickly",
+"Use more welders",
+"Ignore if extinguisher is available",
+"Remove combustibles and reassess the area"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A safety guard was removed for maintenance and the machine is restarted. What is required?",
+options:[
+"Continue production",
+"Inform workers later",
+"Stop and reinstall the guard before operation",
+"Increase supervision"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A worker reports a near miss involving a falling object. What should happen first?",
+options:[
+"Close the report",
+"Secure the area and investigate",
+"Restart the activity",
+"Wait for monthly review"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A scaffold inspection tag is missing. What should be done?",
+options:[
+"Do not use until inspected and tagged",
+"Use it carefully",
+"Use only for short work",
+"Ask workers to inspect it themselves"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A lifting sling is found damaged during pre-use inspection. What is the correct action?",
+options:[
+"Remove it from service",
+"Use it for light loads",
+"Repair it on site",
+"Use two workers for support"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"Repeated unsafe acts continue after counselling. What is the best next step?",
+options:[
+"Ignore the issue",
+"Apply disciplinary action as per procedure",
+"Stop all site activities",
+"Change the worker immediately"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker receives a minor electric shock. What should be done first?",
+options:[
+"Ask him to continue",
+"Isolate power and provide medical assessment",
+"Restart the equipment",
+"Only record the incident"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"During excavation, soil cracking is observed near the edge. What should you do?",
+options:[
+"Continue excavation",
+"Increase worker speed",
+"Add more workers",
+"Stop work and assess collapse controls"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"An emergency exit is blocked by stored material. What is the immediate action?",
+options:[
+"Mark the material",
+"Use another exit",
+"Wait for housekeeping",
+"Remove obstruction immediately"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker wants to enter a confined space after the permit has expired. What should happen?",
+options:[
+"Allow entry quickly",
+"Extend verbally",
+"Stop entry and renew the permit",
+"Use the old permit"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A crane operator cannot clearly see the load path. What control is required?",
+options:[
+"Lift faster",
+"Continue carefully",
+"Use a trained signalman",
+"Ask workers to shout signals"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"After an incident, the work area is cleaned before investigation. What should have been done?",
+options:[
+"Restart work",
+"Only take photographs later",
+"Remove damaged materials",
+"Preserve the scene when safe"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker's fall arrester is found damaged during inspection. What is the action?",
+options:[
+"Remove it from service immediately",
+"Use it for low height",
+"Repair with tape",
+"Use it until replacement arrives"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"During welding, gas cylinders are exposed to direct heat. What should be done?",
+options:[
+"Continue welding",
+"Stop work and relocate/protect cylinders",
+"Use more water nearby",
+"Cover the regulator only"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A JSA was prepared yesterday, but today's work method has changed. What should you do?",
+options:[
+"Use the old JSA",
+"Start work first",
+"Review and update the JSA",
+"Only inform workers verbally"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A supervisor pressures workers to continue during unsafe weather. What is the correct response?",
+options:[
+"Continue production",
+"Reduce break time",
+"Stop work and reassess conditions",
+"Use additional manpower"
+],
+answer:2
+},
+{
+category:"interview",
+question:"During isolation verification, voltage is still detected. What is the correct action?",
+options:[
+"Stop",
+"Continue",
+"Report",
+"Restart"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A confined space attendant leaves the entry point. What should happen?",
+options:[
+"Continue",
+"Stop",
+"Replace",
+"Monitor"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A suspended load is left unattended. What is the safest action?",
+options:[
+"Barricade",
+"Monitor",
+"Continue",
+"Lower"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker collapses inside a confined space. What must be initiated?",
+options:[
+"Entry",
+"Waiting",
+"Rescue",
+"Restart"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A crane exceeds its rated capacity during planning. What is required?",
+options:[
+"Proceed",
+"Reduce",
+"Monitor",
+"Stop"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A fall protection anchor point is uncertified. What should you do?",
+options:[
+"Test",
+"Use",
+"Reject",
+"Mark"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"Gas testing changes from safe to unsafe during entry. What is required?",
+options:[
+"Continue",
+"Evacuate",
+"Ignore",
+"Record"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A critical control is missing from the JSA. What should happen?",
+options:[
+"Revise",
+"Continue",
+"Ignore",
+"Close"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A worker bypasses an interlock to operate equipment. What is the action?",
+options:[
+"Stop",
+"Monitor",
+"Permit",
+"Warn"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"An emergency alarm activates during hot work. What should workers do?",
+options:[
+"Finish",
+"Evacuate",
+"Wait",
+"Continue"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A damaged electrical cable is found in a wet area. What is required?",
+options:[
+"Repair",
+"Isolate",
+"Cover",
+"Use"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A scaffold is modified after inspection. What is required before reuse?",
+options:[
+"Cleaning",
+"Inspection",
+"Painting",
+"Loading"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker enters an excavation showing signs of collapse. What is required?",
+options:[
+"Continue",
+"Support",
+"Stop",
+"Monitor"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A fire extinguisher inspection tag has expired. What is required?",
+options:[
+"Replace",
+"Use",
+"Ignore",
+"Hide"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A safety observation shows repeated unsafe lifting. What should be done?",
+options:[
+"Ignore",
+"Train",
+"Close",
+"Permit"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker is suspended after a fall arrest. What is the priority?",
+options:[
+"Report",
+"Rescue",
+"Restart",
+"Wait"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"An unauthorized person enters a barricaded lifting zone. What should happen?",
+options:[
+"Continue",
+"Signal",
+"Stop",
+"Ignore"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A permit condition differs from actual site conditions. What is required?",
+options:[
+"Proceed",
+"Review",
+"Ignore",
+"Close"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A chemical spill reaches a drainage point. What is the first control?",
+options:[
+"Wash",
+"Contain",
+"Ignore",
+"Evacuate"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker refuses required PPE for a critical task. What should happen?",
+options:[
+"Allow",
+"Replace",
+"Stop",
+"Ignore"
+],
+answer:2
+},
+{
+category:"interview",
+question:"A worker finds unexpected energy during maintenance. What should be done?",
+options:[
+"Verify",
+"Stop",
+"Continue",
+"Record"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"Oxygen concentration suddenly drops during entry. What is required?",
+options:[
+"Evacuate",
+"Continue",
+"Ignore",
+"Monitor"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A lifting hook safety latch is missing. What is required?",
+options:[
+"Replace",
+"Use",
+"Stop",
+"Repair"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A worker removes guardrails for access. What should happen?",
+options:[
+"Continue",
+"Permit",
+"Replace",
+"Stop"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"Hot work sparks reach combustible material. What is the action?",
+options:[
+"Watch",
+"Remove",
+"Continue",
+"Record"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A rescue plan is unavailable before confined entry. What should happen?",
+options:[
+"Enter",
+"Wait",
+"Stop",
+"Monitor"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A crane operator loses communication with signalman. What is required?",
+options:[
+"Stop",
+"Continue",
+"Reverse",
+"Lower"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A pressure gauge shows abnormal reading during work. What should be done?",
+options:[
+"Restart",
+"Stop",
+"Ignore",
+"Record"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker uses an unapproved ladder at height. What is required?",
+options:[
+"Replace",
+"Allow",
+"Extend",
+"Monitor"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"An electrical panel is found open and unattended. What should happen?",
+options:[
+"Inspect",
+"Close",
+"Secure",
+"Ignore"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A permit issuer finds conditions changed after approval. What is required?",
+options:[
+"Continue",
+"Review",
+"Ignore",
+"Close"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A suspended worker cannot communicate after a fall. What is priority?",
+options:[
+"Report",
+"Wait",
+"Rescue",
+"Restart"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A scaffold base plate is missing. What should happen?",
+options:[
+"Use",
+"Repair",
+"Monitor",
+"Stop"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A gas cylinder is leaking during operation. What is the first action?",
+options:[
+"Isolate",
+"Continue",
+"Repair",
+"Move"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"An excavation access ladder is damaged. What is required?",
+options:[
+"Continue",
+"Replace",
+"Ignore",
+"Extend"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker enters a barricaded danger zone. What should happen?",
+options:[
+"Warn",
+"Stop",
+"Monitor",
+"Ignore"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A machine starts unexpectedly after maintenance. What should be checked?",
+options:[
+"LOTO",
+"PPE",
+"Permit",
+"Training"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A fire watch leaves before hot work is completed. What should happen?",
+options:[
+"Continue",
+"Stop",
+"Restart",
+"Report"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A load shifts suddenly during lifting. What is required?",
+options:[
+"Raise",
+"Lower",
+"Continue",
+"Push"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"An emergency exit is locked during operation. What is required?",
+options:[
+"Open",
+"Ignore",
+"Monitor",
+"Report"
+],
+answer:0
+},
+{
+category:"interview",
+question:"A worker finds a live cable during excavation. What is the first action?",
+options:[
+"Continue",
+"Stop",
+"Cover",
+"Record"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A confined space ventilation system fails during entry. What is required?",
+options:[
+"Evacuate",
+"Continue",
+"Monitor",
+"Ignore"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A crane outrigger begins sinking during lifting. What should happen?",
+options:[
+"Raise",
+"Continue",
+"Stop",
+"Rotate"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A worker drops a tool from height without injury. What is required?",
+options:[
+"Ignore",
+"Report",
+"Continue",
+"Restart"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A chemical container has no identification label. What should you do?",
+options:[
+"Use",
+"Open",
+"Discard",
+"Stop"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker bypasses the emergency stop system. What is required?",
+options:[
+"Stop",
+"Allow",
+"Record",
+"Monitor"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"The rescue equipment is missing before height work. What should happen?",
+options:[
+"Continue",
+"Stop",
+"Climb",
+"Wait"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A pressure vessel shows leakage during operation. What is required?",
+options:[
+"Isolate",
+"Continue",
+"Monitor",
+"Repair"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A worker is found unconscious near electrical equipment. What is first?",
+options:[
+"Touch",
+"Rescue",
+"Isolate",
+"Move"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A scaffold is overloaded with materials. What is required?",
+options:[
+"Continue",
+"Unload",
+"Cover",
+"Extend"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A lifting plan does not match the actual load weight. What is required?",
+options:[
+"Review",
+"Lift",
+"Ignore",
+"Signal"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A hot work area has no fire extinguisher. What should happen?",
+options:[
+"Start",
+"Stop",
+"Monitor",
+"Continue"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A worker removes safety goggles during grinding. What is required?",
+options:[
+"Continue",
+"Warn",
+"Stop",
+"Ignore"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"An unknown gas smell is detected in a work area. What should be done?",
+options:[
+"Continue",
+"Investigate",
+"Evacuate",
+"Ignore"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A worker enters an excavation without safe access. What is required?",
+options:[
+"Permit",
+"Stop",
+"Monitor",
+"Continue"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A fall arrest lanyard is connected to an unsuitable point. What is required?",
+options:[
+"Reconnect",
+"Continue",
+"Inspect",
+"Extend"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A forklift reverses with blocked visibility. What is required?",
+options:[
+"Speed",
+"Stop",
+"Spotter",
+"Reverse"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A fire alarm activates but workers continue working. What should happen?",
+options:[
+"Evacuate",
+"Continue",
+"Record",
+"Wait"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A worker performs hot work with expired permit. What is required?",
+options:[
+"Continue",
+"Renew",
+"Ignore",
+"Close"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A safety-critical barrier is damaged during work. What is required?",
+options:[
+"Continue",
+"Report",
+"Stop",
+"Ignore"
+],
+answer:2
+},
+{
+category:"interview",
+question:"LOTO is applied, but a pressure gauge still shows energy. What is required?",
+options:[
+"Proceed",
+"Verify",
+"Ignore",
+"Start"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"Two workers apply personal locks, but one lock is missing before work. What should happen?",
+options:[
+"Continue",
+"Wait",
+"Stop",
+"Override"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"Gas testing is safe at entry, but toxic gas rises during work. What is required?",
+options:[
+"Evacuate",
+"Continue",
+"Monitor",
+"Record"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A confined space entrant loses radio communication. What should happen?",
+options:[
+"Continue",
+"Stop",
+"Wait",
+"Signal"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A rescue team plans to enter without respiratory protection. What is required?",
+options:[
+"Proceed",
+"Rescue",
+"Wait",
+"Stop"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A critical lift starts but wind exceeds the planned limit. What is required?",
+options:[
+"Continue",
+"Stop",
+"Lower",
+"Monitor"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"Crane load radius changes from the approved lifting plan. What should happen?",
+options:[
+"Review",
+"Continue",
+"Signal",
+"Accelerate"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"Two cranes begin sharing one load without an approved plan. What is required?",
+options:[
+"Lift",
+"Stop",
+"Balance",
+"Signal"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A suspended load passes above a barricaded area with workers inside. What is required?",
+options:[
+"Continue",
+"Signal",
+"Evacuate",
+"Lower"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A sling angle changes and exceeds the planned configuration. What is required?",
+options:[
+"Lift",
+"Stop",
+"Pull",
+"Rotate"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A fall arrest occurs and the worker remains suspended. What is the priority?",
+options:[
+"Rescue",
+"Report",
+"Wait",
+"Restart"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"An anchor point is approved, but its structure shows corrosion. What is required?",
+options:[
+"Use",
+"Paint",
+"Inspect",
+"Reject"
+],
+answer:3
+},
+
+{
+category:"interview",
+question:"A worker changes the scaffold configuration after inspection. What is required?",
+options:[
+"Tag",
+"Inspect",
+"Use",
+"Load"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A scaffold green tag is present, but a platform board is missing. What should happen?",
+options:[
+"Continue",
+"Repair",
+"Stop",
+"Monitor"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"A PTW is valid, but simultaneous work creates a new hazard. What is required?",
+options:[
+"Continue",
+"Review",
+"Ignore",
+"Close"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A permit receiver changes during an active critical job. What is required?",
+options:[
+"Transfer",
+"Continue",
+"Ignore",
+"Close"
+],
+answer:0
+},
+
+{
+category:"interview",
+question:"A fire watch cannot remain after hot work completion. What should happen?",
+options:[
+"Leave",
+"Stop",
+"Monitor",
+"Continue"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"After welding, smoldering material is found during fire watch. What is required?",
+options:[
+"Ignore",
+"Report",
+"Extinguish",
+"Leave"
+],
+answer:2
+},
+
+{
+category:"interview",
+question:"An electrical isolation point is incorrectly labelled. What is required?",
+options:[
+"Proceed",
+"Correct",
+"Ignore",
+"Restart"
+],
+answer:1
+},
+
+{
+category:"interview",
+question:"A machine remains energized after shutdown. What should be verified?",
+options:[
+"Speed",
+"Isolation",
+"Production",
+"Lighting"
+],
+answer:1
+},
 
 ];
